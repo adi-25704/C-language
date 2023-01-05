@@ -10,7 +10,7 @@ int main()
         printf("Enter y or n: ");
         scanf("%c", &character);
         printf("Your answer is %c \n",character);
-        printf("Enter your age: ");
+        printf("Enter your age: llll");
         scanf("%d", &age);
         printf("Your age is: %d \n",age);
         printf("Enter temperature: ");
