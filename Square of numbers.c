@@ -8,9 +8,10 @@ int main()
     {
         for(i=j;i<=(2*i-1);i++)
         {
-            printf("%d\n",i);
+            printf("%d \n",i);
 
         }
+        printf("%d",j);
     }
     return 0;
 }
